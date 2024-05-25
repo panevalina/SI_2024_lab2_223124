@@ -52,8 +52,6 @@ public class SILab2Test {
         assertFalse(SILab2.checkCart(Arrays.asList(item8, item9), 599));
     }
 }
-
-
 ```
 ### 5. Multiple Condition критериумот
 ```
