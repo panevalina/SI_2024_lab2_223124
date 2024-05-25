@@ -57,7 +57,7 @@ public class SILab2Test {
 ```
 public class SILab2Test {
     @Test
-    void everyConiditon() {
+    void everyCondition() {
         // TTT (Item со цена над од 300, со попуст и баркод кој започнува со 0)
         Item item1 = new Item("Item1", "0223124", 400, 0.1f);
         assertTrue(SILab2.checkCart(List.of(item1), 10));
