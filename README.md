@@ -53,7 +53,7 @@ public class SILab2Test {
     }
 }
 ```
-### 5. Multiple Condition критериумот
+### 5. Multiple Condition критериум
 ```
 public class SILab2Test {
     @Test
